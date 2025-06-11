@@ -1,5 +1,4 @@
 ## Hi there 👋, here @Mando
-## Hi there 👋, here @Mando
 
 <!--
 **jarmandomtz/jarmandomtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
