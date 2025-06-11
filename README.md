@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on interesting projects, things related with cloud and IA
 - 📫 How to reach me: jarmando_ml@hotmail.com
 - ⚡ Fun fact: Like a lot to dance
+
+:) Have a nice day and enjoy!
