@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, here @Mando
 
 <!--
 **jarmandomtz/jarmandomtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on THD, as SRE mainly with GCP
+- 🌱 I’m currently learning GCP, GHA and Copilot
+- 👯 I’m looking to collaborate on interesting projects, things related with cloud and IA
+- 📫 How to reach me: jarmando_ml@hotmail.com
+- ⚡ Fun fact: Like a lot to dance
